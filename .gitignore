@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Environment and credentials files
+.env
+credentials.txt
+
+# Build output (optional, if you want to ignore the build folder)
+frontend/build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS or Editor files
+.DS_Store
+Thumbs.db

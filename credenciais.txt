@@ -1,0 +1,5 @@
+username: migueloliveira6333
+
+password: j0akxyhMhZzpxrOE
+
+mongodb+srv://migueloliveira6333:j0akxyhMhZzpxrOE@cluster0.kw5g0r9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
